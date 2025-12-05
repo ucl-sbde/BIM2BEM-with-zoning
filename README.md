@@ -1,6 +1,6 @@
 # BIM2BEM_with_zoning
 
-This repository contains zoning-based EnergyPlus models and a knowledge graph supporting the manuscript submitted to Automation in Construction:
+This repository contains representative zoning-based and baseline EnergyPlus models, together with a full-model knowledge graph, supporting the manuscript submitted to Automation in Construction:
 
 # DATA
 
