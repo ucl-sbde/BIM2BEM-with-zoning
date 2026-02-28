@@ -14,9 +14,5 @@ All files are provided directly in the main directory for easy access.
 Each XXXXXXXXXX is a 10-bit code indicating enabled zoning scenarios.  
 
 
-| File | Description |
-|------|-------------|
-| Knowledge graph for OPS.ttl | RDF triples representing building components and relationships |
-
 # SCRIPT
 Scripts and automation tools are maintained in the parent repository, but are currently set to private during beta testing. They will be made public after validation, or can be accessed upon request to the corresponding author for testing purposes.
